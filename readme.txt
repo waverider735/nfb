@@ -13,3 +13,12 @@ Nov-16-2014
 Created local git repository and added this readme file, the original data files and the cleaned versions.
 Created a list of the intersection control points along this route (noted as Route 1).
 
+Nov-22-2014
+Added abstract files (openoffice, word and PDF versions) and CITE submisison form as word document
+
+Nov-23-2014
+Added tex files created for full paper draft document created with TexStudio and PDF file created from tex original. Updated excel macros for summarizing the data
+
+
+
+
