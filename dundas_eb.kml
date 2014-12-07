@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml>
+<Document>
+	<name>dundas_eb.kml</name>
+	<Placemark>
+		<name><![CDATA[Kearns Road]]></name>
+		<description><![CDATA[]]></description>
+		<Point>
+			<coordinates>-79.86788,43.35292,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Brant Street]]></name>
+		<description><![CDATA[]]></description>
+		<Point>
+			<coordinates>-79.855624,43.363776,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Eaglesfield Drive]]></name>
+		<description><![CDATA[]]></description>
+		<Point>
+			<coordinates>-79.8492,43.369448,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Blackwood Drive]]></name>
+		<description><![CDATA[]]></description>
+		<Point>
+			<coordinates>-79.844472,43.373584,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Guelph Line]]></name>
+		<description><![CDATA[]]></description>
+		<Point>
+			<coordinates>-79.839816,43.377652,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Dundas On-Ramp 407 WB]]></name>
+		<description><![CDATA[]]></description>
+		<Point>
+			<coordinates>-79.836872,43.380328,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Dundas Off-Ramp 407 WB]]></name>
+		<description><![CDATA[]]></description>
+		<Point>
+			<coordinates>-79.834808,43.382236,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Dundas On-Ramp 407 EB]]></name>
+		<description><![CDATA[]]></description>
+		<Point>
+			<coordinates>-79.83336,43.38356,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Northampton Boulevard]]></name>
+		<description><![CDATA[]]></description>
+		<Point>
+			<coordinates>-79.827224,43.389124,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Walkers Line]]></name>
+		<description><![CDATA[]]></description>
+		<Point>
+			<coordinates>-79.823824,43.392088,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Berwick Drive]]></name>
+		<description><![CDATA[]]></description>
+		<Point>
+			<coordinates>-79.820576,43.394968,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Westlock Common]]></name>
+		<description><![CDATA[]]></description>
+		<Point>
+			<coordinates>-79.817408,43.397836,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Millcroft Park Drive]]></name>
+		<description><![CDATA[]]></description>
+		<Point>
+			<coordinates>-79.814168,43.400756,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Appleby Line]]></name>
+		<description><![CDATA[]]></description>
+		<Point>
+			<coordinates>-79.807864,43.406632,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Sutton Drive]]></name>
+		<description><![CDATA[]]></description>
+		<Point>
+			<coordinates>-79.801992,43.412028,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Tremaine Road]]></name>
+		<description><![CDATA[]]></description>
+		<Point>
+			<coordinates>-79.791912,43.421164,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Zenon Drive / Colonel William Parkway]]></name>
+		<description><![CDATA[]]></description>
+		<Point>
+			<coordinates>-79.783232,43.4292,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Valleyridge Drive]]></name>
+		<description><![CDATA[]]></description>
+		<Point>
+			<coordinates>-79.779344,43.43294,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Regional Road 25]]></name>
+		<description><![CDATA[]]></description>
+		<Point>
+			<coordinates>-79.874216,43.347568,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Old Bronte Road]]></name>
+		<description><![CDATA[]]></description>
+		<Point>
+			<coordinates>-79.776272,43.435636,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Postmaster Drive]]></name>
+		<description><![CDATA[]]></description>
+		<Point>
+			<coordinates>-79.768016,43.443628,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Third Line]]></name>
+		<description><![CDATA[]]></description>
+		<Point>
+			<coordinates>-79.76088,43.450268,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Proudfoot Trail]]></name>
+		<description><![CDATA[]]></description>
+		<Point>
+			<coordinates>-79.757304,43.453508,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Fourth Line]]></name>
+		<description><![CDATA[]]></description>
+		<Point>
+			<coordinates>-79.754056,43.456724,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Lions Valley Park Road]]></name>
+		<description><![CDATA[]]></description>
+		<Point>
+			<coordinates>-79.749256,43.461124,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Neyagawa Boulevard]]></name>
+		<description><![CDATA[]]></description>
+		<Point>
+			<coordinates>-79.74508,43.464688,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Towne Boulevard]]></name>
+		<description><![CDATA[]]></description>
+		<Point>
+			<coordinates>-79.73984,43.46944,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Harmon Gate]]></name>
+		<description><![CDATA[]]></description>
+		<Point>
+			<coordinates>-79.734504,43.47426,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Sixth Line]]></name>
+		<description><![CDATA[]]></description>
+		<Point>
+			<coordinates>-79.729168,43.479192,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Post Road]]></name>
+		<description><![CDATA[]]></description>
+		<Point>
+			<coordinates>-79.726952,43.481244,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Oak Park Boulevard]]></name>
+		<description><![CDATA[]]></description>
+		<Point>
+			<coordinates>-79.72384,43.484008,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Trafalgar Road]]></name>
+		<description><![CDATA[]]></description>
+		<Point>
+			<coordinates>-79.719576,43.487828,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Postridge Drive]]></name>
+		<description><![CDATA[]]></description>
+		<Point>
+			<coordinates>-79.71644,43.490732,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Eighth Line]]></name>
+		<description><![CDATA[]]></description>
+		<Point>
+			<coordinates>-79.71324,43.49366,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Prince Michael Drive]]></name>
+		<description><![CDATA[]]></description>
+		<Point>
+			<coordinates>-79.708608,43.497884,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Meadowridge Drive]]></name>
+		<description><![CDATA[]]></description>
+		<Point>
+			<coordinates>-79.703976,43.502132,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Ninth Line]]></name>
+		<description><![CDATA[]]></description>
+		<Point>
+			<coordinates>-79.697304,43.508236,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Exit Dundas On-Ramp 403 WB]]></name>
+		<description><![CDATA[]]></description>
+		<Point>
+			<coordinates>-79.696264,43.509196,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Exit Dundas Off-Ramp 403 WB]]></name>
+		<description><![CDATA[]]></description>
+		<Point>
+			<coordinates>-79.694664,43.5107,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Exit Dundas On-Ramp 403 EB]]></name>
+		<description><![CDATA[]]></description>
+		<Point>
+			<coordinates>-79.693032,43.512208,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Exit Dundas Off-Ramp 43 EB]]></name>
+		<description><![CDATA[]]></description>
+		<Point>
+			<coordinates>-79.691688,43.513436,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Hyde Park Gate]]></name>
+		<description><![CDATA[]]></description>
+		<Point>
+			<coordinates>-79.689488,43.515424,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Winston Park Drive]]></name>
+		<description><![CDATA[]]></description>
+		<Point>
+			<coordinates>-79.68712,43.517684,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Hampshire Gate]]></name>
+		<description><![CDATA[]]></description>
+		<Point>
+			<coordinates>-79.684256,43.520336,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Winston Churchill Boulevard]]></name>
+		<description><![CDATA[]]></description>
+		<Point>
+			<coordinates>-79.68172,43.522632,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
